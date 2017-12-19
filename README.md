@@ -1,5 +1,7 @@
 # Facial-Detection-and-Improvment
 
+Our final project python code is the "final_project(group 81).ipynb" file.
+
 Main idea: 
 At first, we want to create a fully connected CNN(no FC layer at all), and then train this network on small images and set up CNN to output a 1x1x1 output. Then run the CNN on larger image, it will output the score for each box in the input image. However, we don't know how to create multi-dimensional labels (y), thus we used FC layers after CNN layers as instead. In this way, we can generate 1-D label very easy. So, following this idea, we begin to build our model as the following steps:
 
