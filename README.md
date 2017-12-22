@@ -17,4 +17,5 @@ After model being built, we try to do:
 From the obtained results of singel/multi face dectection, we found our model is not accurate and efficient enough, thus we studied additional knowlege from Coursera deep learning course, and this course introduce YOLO model to us.
 The first three sections(Build Model, Single Face Detection, Multi-Face Detection) are all finished by ourselves, the last part(YOLO) we did minor adjustment.
 
-Please check our Vedio.mp4 in final_project folder.
+About reference:
+Section Ⅰ (Build model), Ⅱ (Single Facial Detection), ⅡⅠ (Multi-Face Detection) are all finished by ourselves, without reference. Section Ⅳ is referenced from Coursera Deep Learning course, we made minor adjustment, we have already notice the code we wrote with comment.
